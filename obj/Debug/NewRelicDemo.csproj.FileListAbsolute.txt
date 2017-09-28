@@ -1,0 +1,105 @@
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\ApplicationInsights.config
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\NewRelicDemo.dll.config
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\NewRelicDemo.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\NewRelicDemo.pdb
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Antlr3.Runtime.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\EntityFramework.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\EntityFramework.SqlServer.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.Web.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Newtonsoft.Json.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Owin.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Helpers.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Mvc.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Optimization.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Razor.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.Deployment.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.Razor.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\WebGrease.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.Web.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Helpers.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Mvc.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Optimization.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.Razor.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.Deployment.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\System.Web.WebPages.Razor.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Antlr3.Runtime.pdb
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Newtonsoft.Json.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\EntityFramework.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\EntityFramework.SqlServer.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\obj\Debug\NewRelicDemo.csprojResolveAssemblyReference.cache
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\obj\Debug\NewRelicDemo.dll
+c:\users\hieutrinh\documents\visual studio 2015\Projects\NewRelicDemo\NewRelicDemo\obj\Debug\NewRelicDemo.pdb
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\ApplicationInsights.config
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\NewRelicDemo.dll.config
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\NewRelicDemo.dll
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\NewRelicDemo.pdb
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\EntityFramework.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\EntityFramework.SqlServer.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AI.Web.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.Helpers.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.Mvc.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.Optimization.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.Razor.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.WebPages.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\System.Web.WebPages.Razor.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Antlr3.Runtime.pdb
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Newtonsoft.Json.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hieutrinh\Documents\project-starter-setup\obj\Debug\NewRelicDemo.csprojResolveAssemblyReference.cache
+C:\Users\hieutrinh\Documents\project-starter-setup\obj\Debug\NewRelicDemo.dll
+C:\Users\hieutrinh\Documents\project-starter-setup\obj\Debug\NewRelicDemo.pdb
